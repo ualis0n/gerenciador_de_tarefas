@@ -9,4 +9,4 @@
 <li>JAVASCRIPT</li>
 </ol>
 
-<img src"https://github.com/ualis0n/gerenciador_de_tarefas/issues/1#issue-1370538788">
+https://github.com/ualis0n/gerenciador_de_tarefas/issues/1#issue-1370538788"
