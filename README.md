@@ -9,4 +9,4 @@
 <li>JAVASCRIPT</li>
 </ol>
 
-https://github.com/ualis0n/gerenciador_de_tarefas/issues/1#issue-1370538788"
+![WhatsApp Image 2022-09-12 at 18 20 07](https://user-images.githubusercontent.com/88587000/189761986-19db7e0e-5b8d-4b0a-a503-6f4f7e385e25.jpeg)
